@@ -1,5 +1,7 @@
 # authkit
 
+[![tests](https://github.com/namand6/authkit/actions/workflows/tests.yml/badge.svg)](https://github.com/namand6/authkit/actions/workflows/tests.yml)
+
 Authentication and authorization from scratch, standard library only: password hashing, JWTs,
 refresh-token rotation with theft detection, role-based access control, and an OAuth 2.0
 authorization server (authorization code + PKCE). The test suite is written as a list of attacks.
